@@ -1,0 +1,10 @@
+insert into department (departmentid, departmentname) values (1, 'Product Management');
+insert into department (departmentid, departmentname) values (2, 'Engineering');
+insert into department (departmentid, departmentname) values (3, 'Accounting');
+insert into department (departmentid, departmentname) values (4, 'Sales');
+insert into department (departmentid, departmentname) values (5, 'Services');
+insert into department (departmentid, departmentname) values (6, 'Human Resources');
+insert into department (departmentid, departmentname) values (7, 'Legal');
+insert into department (departmentid, departmentname) values (8, 'Sales');
+insert into department (departmentid, departmentname) values (9, 'Engineering');
+insert into department (departmentid, departmentname) values (10, 'Marketing');
